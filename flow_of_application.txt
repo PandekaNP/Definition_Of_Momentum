@@ -1,0 +1,43 @@
+Application Flow
+
+->Splash
+->Main menu
+->Sub menu
+
+*****definition of momentum - VRScene1
+*show the definition in typewriter text at the bottom.
+*show the formula in text. p = mv
+*describe in text the apparatus, the buttons, result board
+*show navigation menu: definition, experiment, exit
+*show operators menu: play, repeat, next
+
+*show instruction to set the ball.
+*setting the ball[button flash]
+-[button clicked] ->a ball appeares with a 1kg label
+*show instruction to apply force.
+*apply a force[button flash]
+-[button clicked] ->ball moves.
+typewriter text plays
+"this principle illustrates the definition of momentum which is mass in motion".
+OR
+"momentum is a property which applies to moving objects, it is mass in motion. If
+something has mass and it is moving, it has momentum".
+*[ball stops]
+
+*****Transition from VRScene1 to VRScene2
+Text appears to inform user can repeat the definition of momentum simulation or click
+next to begin the experiment.
+[make repeat button clickable], [next button flashing]
+
+*****Experiment -VRScene2
+*show navigation menu: definition, experiment, exit 
+*show operators menu: play, repeat
+*show results board
+
+*we move the balls at the same time:
+ballA[text label time] stops at 5 secs
+ballB[text label time] stops at 10 secs
+
+*****Results board
+Show momentum for each ball after a certain time
+??? text describing the results when experiment is complete
